@@ -8,6 +8,8 @@
 ## Descrição
 <p>Análise dos candidatos legíveis para a eleição de 2020.</p>
 <p>A análise foi baseada nos quesitos gênero e raça de dois partidos políticos: um de extrema esqueda e outro de extrema direita.</p>
+<p>O intúito da análise é explicitar que embora se comente sobre o aumento no número de candidatura de mulheres e negros, alguns partidos ainda têm, em sua maioria, candidatura de homens e brancos.</p>
+
 <br />
 
 ## Fonte dos dados
