@@ -13,7 +13,7 @@
 ## Fonte dos dados
 <p>Os dados foram retirados repositório de dados eleitorais no site do <a href="http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1/repositorio-de-dados-eleitorais">Tribunal Superior Eleitoral</a>.</p>
 <p>Para extrair os dados utilize a opção <strong>Candidatos</strong> do menu lateral, selecione o ano <strong>2020</strong> e faça o download da opção <strong>Candidatos (formato ZIP)</strong></p>
-<p>No arquivo baixado terá uma planilha para cada estado e uma com os dados **de todo o Brasil** reunido. Este foi o utilizado nesta análise.</p>
+<p>No arquivo baixado terá uma planilha para cada estado e uma com os dados <strong>de todo o Brasil</strong> reunido. Este foi o utilizado nesta análise.</p>
 
 <br />
 
