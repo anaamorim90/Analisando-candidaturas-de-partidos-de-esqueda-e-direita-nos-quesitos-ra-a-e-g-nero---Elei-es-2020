@@ -1,0 +1,1 @@
+# Analisando-candidaturas-de-partidos-de-esqueda-e-direita-nos-quesitos-ra-a-e-g-nero---Elei-es-2020
